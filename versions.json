@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Summer '23 R2",
+        "versionNumber": "2.10.2",
+        "buildNumber": "2.10.2.07"
+    },
+    {
+        "name": "Summer '23 R1",
+        "versionNumber": "2.10.1",
+        "buildNumber": "2.10.1.05"
+    },
+    {
+        "name": "Spring '23 R3",
+        "versionNumber": "2.9.2",
+        "buildNumber": "2.9.2.04"
+    },
+    {
+        "name": "Spring '23 R2",
+        "versionNumber": "2.9.1",
+        "buildNumber": "2.9.1.06"
+    },
+    {
+        "name": "Spring '23 R1",
+        "versionNumber": "2.9.0",
+        "buildNumber": "2.9.0.02"
+    }
+]
