@@ -1,8 +1,13 @@
 [
     {
+        "name": "Winter '24 R1",
+        "versionNumber": "2.11.1",
+        "buildNumber": "2.11.1.04"
+    },
+    {
         "name": "Summer '23 R2",
         "versionNumber": "2.10.2",
-        "buildNumber": "2.10.2.07"
+        "buildNumber": "2.10.2.08"
     },
     {
         "name": "Summer '23 R1",
@@ -13,15 +18,5 @@
         "name": "Spring '23 R3",
         "versionNumber": "2.9.2",
         "buildNumber": "2.9.2.04"
-    },
-    {
-        "name": "Spring '23 R2",
-        "versionNumber": "2.9.1",
-        "buildNumber": "2.9.1.06"
-    },
-    {
-        "name": "Spring '23 R1",
-        "versionNumber": "2.9.0",
-        "buildNumber": "2.9.0.02"
     }
 ]
