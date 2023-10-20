@@ -1,5 +1,10 @@
 [
     {
+        "name": "Winter '24 R2",
+        "versionNumber": "2.11.2",
+        "buildNumber": "2.11.2.05"
+    },
+    {
         "name": "Winter '24 R1",
         "versionNumber": "2.11.1",
         "buildNumber": "2.11.1.04"
@@ -7,7 +12,7 @@
     {
         "name": "Summer '23 R2",
         "versionNumber": "2.10.2",
-        "buildNumber": "2.10.2.08"
+        "buildNumber": "2.10.2.07"
     },
     {
         "name": "Summer '23 R1",
