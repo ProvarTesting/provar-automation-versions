@@ -1,5 +1,15 @@
 [
     {
+        "name": "Spring '24 R1",
+        "versionNumber": "2.12.1",
+        "buildNumber": "2.12.1.1"
+    },
+    {
+        "name": "Winter '24 R3",
+        "versionNumber": "2.11.3",
+        "buildNumber": "2.11.3.11"
+    },
+    {
         "name": "Winter '24 R2",
         "versionNumber": "2.11.2",
         "buildNumber": "2.11.2.05"
