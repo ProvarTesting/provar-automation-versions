@@ -1,5 +1,22 @@
 [
     {
+        "name": "Winter '26 R2 V2",
+        "versionNumber": "2.15.3",
+        "buildNumber": "2.15.3",
+        "java": "21"
+    },
+    {
+        "name": "Winter '26 R1 V1",
+        "versionNumber": "2.15.2",
+        "buildNumber": "2.15.2",
+        "java": "21"
+    },
+    {
+        "name": "Winter '26 R1",
+        "versionNumber": "2.15.1",
+        "buildNumber": "2.15.1"
+    },
+    {
         "name": "Winter '25 R1",
         "versionNumber": "2.14.1",
         "buildNumber": "2.14.1"
