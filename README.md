@@ -5,10 +5,7 @@ This repository maintains information on available Provar Automation versions an
 ## Files Included
 
 ### `versions.js`
-This file contains a list of all Provar Automation versions along with their compatible Java versions. (Note: The key "javaVersion": "21" must be included for all Provar Automation versions 2.15.2 and above. For versions that support Java 11, this key is optional.)
-
-### `java_versions.js`
-This file provides a comprehensive list of Java versions supported by Provar Automation.
+This file contains a list of all Provar Automation versions along with their compatible Java versions. (Note: The key "javaVersion": "21" must be included for all Provar Automation versions 2.15.2 and above. For versions that support Java 11, this key "javaVersion": "11" is optional.)
 
 ## Usage
 Developers can refer to these files to verify available Provar Automation versions and their Java compatibility, ensuring smooth integration and setup.
