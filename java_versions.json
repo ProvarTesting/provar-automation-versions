@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Java 21",
+        "versionNumber": "21"
+    },
+    {
+        "name": "Java 11",
+        "versionNumber": "11"
+    }
+]
