@@ -1,5 +1,10 @@
 [
     {
+        "name": "Spring '25 R2",
+        "versionNumber": "2.15.2",
+        "buildNumber": "2.15.2.05"
+    },
+    {
         "name": "Spring '25 R1",
         "versionNumber": "2.15.1",
         "buildNumber": "2.15.1.2"
