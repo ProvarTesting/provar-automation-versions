@@ -2,7 +2,8 @@
     {
         "name": "Spring '25 R2",
         "versionNumber": "2.15.2",
-        "buildNumber": "2.15.2.05"
+        "buildNumber": "2.15.2.05",
+        "javaVersion": "21"
     },
     {
         "name": "Spring '25 R1",
