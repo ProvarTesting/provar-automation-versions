@@ -1,5 +1,11 @@
 [
     {
+        "name": "Provar V3 (GA)",
+        "versionNumber": "3.0.4",
+        "buildNumber": "3.0.4",
+        "javaVersion": "21"
+    },
+    {
         "name": "Winter '26 R1",
         "versionNumber": "2.17.1",
         "buildNumber": "2.17.1",
