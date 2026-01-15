@@ -1,5 +1,17 @@
 [
     {
+        "name": "Provar V3 (3.0.5)",
+        "versionNumber": "3.0.5.1",
+        "buildNumber": "3.0.5.1",
+        "javaVersion": "21"
+    },
+    {
+        "name": "Spring '26 R1",
+        "versionNumber": "2.18.1.1",
+        "buildNumber": "2.18.1.1",
+        "javaVersion": "21"
+    },
+    {
         "name": "Provar V3 (GA)",
         "versionNumber": "3.0.4",
         "buildNumber": "3.0.4",
