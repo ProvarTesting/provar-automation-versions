@@ -12,18 +12,6 @@
         "javaVersion": "21"
     },
     {
-        "name": "V3 Summer '26 R1",
-        "versionNumber": "3.0.7",
-        "buildNumber": "3.0.7",
-        "javaVersion": "21"
-    },
-    {
-        "name": "V2 Summer '26 R1",
-        "versionNumber": "2.19.1",
-        "buildNumber": "2.19.1",
-        "javaVersion": "21"
-    },
-    {
         "name": "V3 Spring '26 R2",
         "versionNumber": "3.0.6.1",
         "buildNumber": "3.0.6.1",
